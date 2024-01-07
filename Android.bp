@@ -177,7 +177,7 @@ cc_defaults {
     },
 
     lto: {
-        thin: true,
+        never: true,
     },
     c_std: "c11",
 }
